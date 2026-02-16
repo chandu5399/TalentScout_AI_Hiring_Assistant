@@ -106,5 +106,5 @@ The chatbot uses LLM prompts to dynamically generate interview questions based o
 
 Developed as part of AI/ML Internship Assignment.
 
-## 📂 Project Structure
+
 
